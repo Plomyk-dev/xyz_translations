@@ -3,22 +3,42 @@
         "new_game": "Νέο παιχνίδι",
         "continue": "Συνέχεια παιχνιδιού",
         "settings": "Ρυθμίσεις",
+        "credits": "Credits",
         "quit": "Έξοδος"
     },
 
-    "act1_a": {
+    "loader": {
+        "downloading_assets": "Downloading Resources...",
+        "loading_data": "Initializing...",
+        "saving": "Saving Progress...",
+        "saved": "Progress Saved."
+    },
+
+    "actors_name": {
+        "jenna": "Τζένα",
+        "derek": "Ντέρεκ",
+        "ryan_cooper": "Ryan Cooper"
+    },
+
+
+
+    "act_one_a": {
         "ryan_cooper": "Ράιαν Κούπερ",
         "loose_ends": "Εκκρεμότητες",
         "gps_sent": "Στάλθηκε το σήμα GPS",
         "join_pursuit": "Συμμετοχή στην καταδίωξη",
         "join_pursuit_desc": "Πήγαινε μαζί με τον Ράιαν Κούπερ σε μια καταδίωξη στους δρόμους της πόλης."
     },
-    "act1_chase": {
+
+    "act_a_phone_call_voice": {
+        "ryan_1": "Jenna… great timing to pick up, because I’m currently knee-deep in a sticky situation and could really use you right now.",
+        "jenna_1": "You’re kidding me. I’m in the middle of a recon—",
+        "ryan_2": "I know, I know—I'm sorry! Just—this vehicle I've been tracking for a while… and it's right in front of me!",
+        "jenna_2": "Yeah, yeah—send the ping. Just don’t get yourself killed before I get there."
+    },
+
+    "act_one_chase": {
         "stop_car_title": "Σταματά το όχημα που προσπαθεί να διαφύγει",
         "stop_car_desc": "Προκάλεσε ζημιές στο όχημα που προσπαθεί να διαφύγει για να το ακινητοποιήσεις."
-    },
-    "char_select": {
-        "jenna": "Τζένα",
-        "derek": "Ντέρεκ"
     }
 }

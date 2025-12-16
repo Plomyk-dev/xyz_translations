@@ -3,22 +3,41 @@
         "new_game": "Nouveau jeu",
         "continue": "Continuer",
         "settings": "paramètres",
+        "credits": "Credits",
         "quit": "Quitter"
     },
 
-    "act1_a": {
+    "loader": {
+        "downloading_assets": "Downloading Resources...",
+        "loading_data": "Initializing...",
+        "saving": "Saving Progress...",
+        "saved": "Progress Saved."
+    },
+
+    "actors_name": {
+        "jenna": "Jenna",
+        "derek": "Derek",
+        "ryan_cooper": "Ryan Cooper"
+    },
+
+
+    "act_one_a": {
         "ryan_cooper": "Ryan Cooper",
         "loose_ends": "Loose Ends",
         "gps_sent": "GPS Envoyé",
         "join_pursuit": "Rejoignez la poursuite",
         "join_pursuit_desc": "Rejoignez Ryan Cooper dans une course-poursuite effrénée à travers les rues de la ville."
     },
-    "act1_chase": {
+
+    "act_a_phone_call_voice": {
+        "ryan_1": "Jenna… great timing to pick up, because I’m currently knee-deep in a sticky situation and could really use you right now.",
+        "jenna_1": "You’re kidding me. I’m in the middle of a recon—",
+        "ryan_2": "I know, I know—I'm sorry! Just—this vehicle I've been tracking for a while… and it's right in front of me!",
+        "jenna_2": "Yeah, yeah—send the ping. Just don’t get yourself killed before I get there."
+    },
+
+    "act_one_chase": {
         "stop_car_title": "Arrêtez la voiture en fuite",
         "stop_car_desc": "Endommagez le véhicule en fuite pour le neutraliser."
-    },
-    "char_select": {
-        "jenna": "Jenna",
-        "derek": "Derek"
     }
 }
