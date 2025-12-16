@@ -1,10 +1,10 @@
 {
     "homescreen": {
-        "new_game": "New Game",
-        "continue": "Continue",
-        "settings": "Settings",
+        "new_game": "Nouveau jeu",
+        "continue": "Continuer",
+        "settings": "paramètres",
         "credits": "Credits",
-        "quit": "Quit"
+        "quit": "Quitter"
     },
 
     "loader.loading_data": {
@@ -30,13 +30,13 @@
 
     "act_one_a": {
         "loose_ends": "Loose Ends",
-        "gps_sent": "GPS Sent",
-        "join_pursuit": "Join the pursuit",
-        "join_pursuit_desc": "Join Ryan Cooper in the high-speed chase through the city streets."
+        "gps_sent": "GPS Envoyé",
+        "join_pursuit": "Rejoignez la poursuite",
+        "join_pursuit_desc": "Rejoignez Ryan Cooper dans une course-poursuite effrénée à travers les rues de la ville."
     },
-    
+
     "act_one_chase": {
-        "stop_car_title": "Stop the Fleeing Car",
-        "stop_car_desc": "Damage the escaping vehicle to disable it."
+        "stop_car_title": "Arrêtez la voiture en fuite",
+        "stop_car_desc": "Endommagez le véhicule en fuite pour le neutraliser."
     }
 }

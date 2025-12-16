@@ -34,7 +34,8 @@
         "join_pursuit_desc": "Bli med Anton Pærksen i den intensive biljakten gjennom byens gater."
     },
 
-    "act1_chase": {
+
+    "act_one_chase": {
         "stop_car_title": "Stopp den flyktende bilen",
         "stop_car_desc": "Ødelegg bilen for å stoppe biljakten."
     }
