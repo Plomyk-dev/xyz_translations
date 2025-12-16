@@ -20,7 +20,13 @@
         "ryan_cooper": "Ryan Cooper"
     },
 
-
+    
+    "act_a_phone_call_voice": {
+        "ryan_1": "Jenna… great timing to pick up, because I’m currently knee-deep in a sticky situation and could really use you right now.",
+        "jenna_1": "You’re kidding me. I’m in the middle of a recon.",
+        "ryan_2": "I know, I know—I'm sorry! Just—this vehicle I've been tracking for a while… and it's right in front of me!",
+        "jenna_2": "Yeah, yeah—send the ping. Just don’t get yourself killed before I get there."
+    },
 
     "act_one_a": {
         "ryan_cooper": "Ράιαν Κούπερ",
@@ -28,13 +34,6 @@
         "gps_sent": "Στάλθηκε το σήμα GPS",
         "join_pursuit": "Συμμετοχή στην καταδίωξη",
         "join_pursuit_desc": "Πήγαινε μαζί με τον Ράιαν Κούπερ σε μια καταδίωξη στους δρόμους της πόλης."
-    },
-
-    "act_a_phone_call_voice": {
-        "ryan_1": "Jenna… great timing to pick up, because I’m currently knee-deep in a sticky situation and could really use you right now.",
-        "jenna_1": "You’re kidding me. I’m in the middle of a recon—",
-        "ryan_2": "I know, I know—I'm sorry! Just—this vehicle I've been tracking for a while… and it's right in front of me!",
-        "jenna_2": "Yeah, yeah—send the ping. Just don’t get yourself killed before I get there."
     },
 
     "act_one_chase": {

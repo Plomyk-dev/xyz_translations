@@ -21,19 +21,18 @@
     },
 
 
+    "act_a_phone_call_voice": {
+        "ryan_1": "Jenna… great timing to pick up, because I’m currently knee-deep in a sticky situation and could really use you right now.",
+        "jenna_1": "You’re kidding me. I’m in the middle of a recon.",
+        "ryan_2": "I know, I know—I'm sorry! Just—this vehicle I've been tracking for a while… and it's right in front of me!",
+        "jenna_2": "Yeah, yeah—send the ping. Just don’t get yourself killed before I get there."
+    },
+
     "act_one_a": {
-        "ryan_cooper": "Ryan Cooper",
         "loose_ends": "Loose Ends",
         "gps_sent": "GPS Envoyé",
         "join_pursuit": "Rejoignez la poursuite",
         "join_pursuit_desc": "Rejoignez Ryan Cooper dans une course-poursuite effrénée à travers les rues de la ville."
-    },
-
-    "act_a_phone_call_voice": {
-        "ryan_1": "Jenna… great timing to pick up, because I’m currently knee-deep in a sticky situation and could really use you right now.",
-        "jenna_1": "You’re kidding me. I’m in the middle of a recon—",
-        "ryan_2": "I know, I know—I'm sorry! Just—this vehicle I've been tracking for a while… and it's right in front of me!",
-        "jenna_2": "Yeah, yeah—send the ping. Just don’t get yourself killed before I get there."
     },
 
     "act_one_chase": {
